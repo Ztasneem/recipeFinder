@@ -9,12 +9,6 @@ The app uses the themealdb REST API.
 
 - Javascript
 - [API](https://www.themealdb.com/api.php)
-- [Bootstrap](https://bootswatch.com/) (Bootswatch Theme)
+- [Bootstrap]
 - HTML
 - CSS
-
-### Author
-
-Theelipan Prabakar - https://www.theelipan.com/
-
-Project Link: https://practical-archimedes-a61091.netlify.app/
